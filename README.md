@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on mobile app development..
 - 📫 How to reach me
   
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ..I am great designer but love coding too!!.
+- 😄 Pronouns:she/her
+- ⚡ Fun fact:I am great designer but love coding too!!.
 
 <!---
 tiyu5679/tiyu5679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
