@@ -61,12 +61,6 @@ Passionate about Data Engineering, Analytics, and Software Development. Experien
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=github_dark)
-
----
-
 ### 🎯 Current Focus
 
 * Customer Data Platforms (CDP)
