@@ -41,7 +41,7 @@ Passionate about Data Engineering, Analytics, and Software Development. Experien
 
 **Email:** [tiyamehta13@gmail.com](mailto:tiyamehta13@gmail.com)
 
-**LinkedIn:** https://www.linkedin.com/in/tiyamehta13/
+**LinkedIn:** https://www.linkedin.com/in/tiya13/
 
 ---
 
